@@ -50,5 +50,10 @@ totn +=tot;
 jums +=sk;
 jumn +=nil;
 i++;}
-}
-}
+System.out.println("==========================");
+System.out.println("Jumlah Nilai	:"+jumn);
+System.out.println("Jumlah Point	:"+totn);
+System.out.println("Total SKS		:"+jums);
+ipk = totn/jums;
+System.out.println("IPK				:"+ipk);
+}}
